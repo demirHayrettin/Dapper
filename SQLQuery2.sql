@@ -1,0 +1,1 @@
+SELECT OrderID, CustomerID, OrderDate, ShipCity FROM Orders WHERE CustomerID = 'ALFKI'
